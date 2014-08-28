@@ -1,0 +1,5 @@
+include README.rst
+include CHANGES.rst
+recursive-include css *
+recursive-include img *
+recursive-include js *
